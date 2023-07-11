@@ -156,3 +156,23 @@
  padding-left: 10px;
  border-radius: 5px;
 }
+/* footer section style */
+.footer-container{
+    height: 50vh ;
+    background-color: black;
+}
+.footer-text{
+    color: white;
+    text-align: center;
+}
+.footer-title{
+    padding-top:80px;
+    padding-bottom: 20px;
+}
+.text{
+    font-size: 17px;
+    padding-bottom: 30px;
+}
+.copy{
+    color: rgba(255, 255, 255, 0.40); 
+}
