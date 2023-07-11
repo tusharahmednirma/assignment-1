@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* header section style */
+.header-container {
+    display: flex;
+    height: 80%;
+    background-color: rgba(229, 84, 115, 0.10);
+    ;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+}
+
+.header-img {
+    height: 450px;
+}
+
+.header-title {
+    color: #272727;
+    font-size: 50px;
+    font-weight: 800;
+    margin-bottom: 25px;
+
+}
+
+.header-text {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 25px;
+
+}
+
+.header-btn {
+    border-radius: 8px;
+    background: #E55473;
+    border: none;
+    color: white;
+    font-size: 15px;
+    padding: 15px 30px ;
+}
