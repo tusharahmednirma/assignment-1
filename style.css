@@ -8,7 +8,7 @@
     display: flex;
     height: 80%;
     background-color: rgba(229, 84, 115, 0.10);
-
+    padding-top: 50px;
     justify-content: center;
     align-items: center;
     gap: 80px;
@@ -254,24 +254,39 @@
     background-color: rgba(167, 33, 98, 0.15);
     border-radius: 300px 300px 0px 0px;
     padding: 50px 30px 0px 30px;
+    margin-bottom: 20px;
 }
 
 .picture-card-2 {
     background-color: rgba(5, 151, 160, 0.15);
     padding: 50px 10px 5px 10px;
     border-radius: 300px 300px 0px 0px;
+    margin-bottom: 20px;
+
 }
 
 .picture-card-3 {
     background-color: rgba(71, 125, 17, 0.15);
     padding: 50px 40px 0px 40px;
     border-radius: 300px 300px 0px 0px;
+    margin-bottom: 20px;
+
 }
 
 .picture-anchor {
     text-align: center;
 
 }
+.picture-anchor a {
+
+    /* text-decoration: none; */
+    font-weight: 700;
+    margin-top: 20px;
+    color: black
+}
+
+
+
 
 .feature-title {
     color: #272727;
@@ -286,4 +301,8 @@
     font-size: 15px;
     margin-top: 20px;
     margin-bottom: 30px;   
+}
+ .anchor {
+    margin-top: 30px !important;
+
 }
