@@ -6,7 +6,7 @@
 /* header section style */
 .header-container {
     display: flex;
-    height: 80vh;
+    height: 80%;
     background-color: rgba(229, 84, 115, 0.10);
 
     justify-content: center;
