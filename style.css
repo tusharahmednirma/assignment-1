@@ -176,3 +176,67 @@
 .copy{
     color: rgba(255, 255, 255, 0.40); 
 }
+.surprise-container{
+    height: 80vh;
+    background-color: rgba(229, 84, 115, 0.10);
+    
+}
+.card-img{
+    height: 200px;
+    width:200px
+}
+.card-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    
+}
+.cards{
+    background-color:rgb(249, 143, 178);
+    width: 200px;
+    height: 300px;
+    color: black;
+    border-radius: 10px ;
+    
+}
+.card-title{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 28px;
+    padding-bottom: 20px;
+
+}
+.card-text{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+.cards-title{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.pictures{
+    height: 250px;
+    height: 250px;
+}
+.picture-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+.feature-container{
+    height: 80vh;
+}
+.picture-card-1{
+    background-color: rgba(167, 33, 98, 0.15);  
+}
+.picture-card-2{
+   background-color:  rgba(5, 151, 160, 0.15);
+}
+.picture-card-3{
+    background-color: rgba(71, 125, 17, 0.15);
+}
