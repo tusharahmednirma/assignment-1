@@ -309,3 +309,13 @@ body{
     margin-top: 30px !important;
 
 }
+.card-1{
+    padding-top: 4px;
+    text-align: center;
+}
+.title{
+    text-decoration: underline;
+    color: #272727;
+    font-size: 18px;
+    font-weight: 700;
+}
